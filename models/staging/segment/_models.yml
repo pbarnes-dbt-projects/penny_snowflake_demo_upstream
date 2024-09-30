@@ -1,0 +1,10 @@
+version: 2
+
+
+models:
+  - name: int_segment__link_clicked
+    access: public
+  - name: int_segment__pages
+    access: public
+  - name: int_segment__tracks
+    access: public
